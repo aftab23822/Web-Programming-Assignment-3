@@ -1,0 +1,47 @@
+/*number inputs*/
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blueviolet;
+}
+.el{
+    margin-top: 10%;
+    padding: 10%;
+    border: 5px solid #2a2a06;
+display: flex;
+justify-content: center;
+}
+select {
+    width: 50px;
+    margin: 10px;
+    height: 33px;
+}
+optgroup {
+    width:100px; height:90px;
+    text-align:center;
+    margin:10px;
+    float:left;
+}
+input[type="number"] {
+    width:50px; height:30px;
+    text-align:center;
+    margin:3px;
+    float:left;}
+    
+    /*select and equals elements*/
+    select, .equals {
+    margin:5px;
+    float:left;}
+    
+    /*output element*/
+    output {
+    display:block;
+    border:1px solid #333333;
+    border-radius:5px;
+    min-width:25px; height:25px;
+    margin:3px; padding:2px;
+    text-align:center;
+    background:#0531f7;
+    color:#ffffff;
+    float:left; }
