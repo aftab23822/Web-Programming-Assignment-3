@@ -1,4 +1,5 @@
 <?php
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,3 +65,4 @@ function updateOutput() {
 </div>
 </body>
 </html>
+<?php
